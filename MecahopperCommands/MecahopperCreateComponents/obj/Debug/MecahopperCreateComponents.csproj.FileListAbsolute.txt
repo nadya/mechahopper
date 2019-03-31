@@ -1,0 +1,6 @@
+C:\Users\tlogan\source\repos\MecahopperCreateComponents\MecahopperCreateComponents\bin\MecahopperCreateComponents.dll
+C:\Users\tlogan\source\repos\MecahopperCreateComponents\MecahopperCreateComponents\bin\MecahopperCreateComponents.pdb
+C:\Users\tlogan\source\repos\MecahopperCreateComponents\MecahopperCreateComponents\obj\Debug\MecahopperCreateComponents.csproj.CoreCompileInputs.cache
+C:\Users\tlogan\source\repos\MecahopperCreateComponents\MecahopperCreateComponents\obj\Debug\MecahopperCreateComponents.dll
+C:\Users\tlogan\source\repos\MecahopperCreateComponents\MecahopperCreateComponents\obj\Debug\MecahopperCreateComponents.pdb
+C:\Users\tlogan\source\repos\MecahopperCreateComponents\MecahopperCreateComponents\obj\Debug\MecahopperCreateComponents.csprojAssemblyReference.cache
